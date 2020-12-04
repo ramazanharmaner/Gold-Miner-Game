@@ -1,0 +1,10 @@
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\bin\Debug\Altın Toplama Oyunu.exe.config
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\bin\Debug\Altın Toplama Oyunu.exe
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\bin\Debug\Altın Toplama Oyunu.pdb
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\Altın Toplama Oyunu.csprojAssemblyReference.cache
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\Altın_Toplama_Oyunu.Form1.resources
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\Altın_Toplama_Oyunu.Properties.Resources.resources
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\Altın Toplama Oyunu.csproj.GenerateResource.cache
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\Altın Toplama Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\Altın Toplama Oyunu.exe
+C:\Users\Ramazan Harmaner\source\repos\Altın Toplama Oyunu\Altın Toplama Oyunu\obj\Debug\Altın Toplama Oyunu.pdb
